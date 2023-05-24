@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desenvolvedor Backend .NET\String_MeuApp\bin\Debug\net7.0\String_MeuApp.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desenvolvedor Backend .NET\String_MeuApp\bin\Debug\net7.0\String_MeuApp.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desenvolvedor Backend .NET\String_MeuApp\bin\Debug\net7.0\String_MeuApp.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desenvolvedor Backend .NET\String_MeuApp\bin\Debug\net7.0\String_MeuApp.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desenvolvedor Backend .NET\String_MeuApp\bin\Debug\net7.0\String_MeuApp.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desenvolvedor Backend .NET\String_MeuApp\obj\Debug\net7.0\String_MeuApp.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desenvolvedor Backend .NET\String_MeuApp\obj\Debug\net7.0\String_MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desenvolvedor Backend .NET\String_MeuApp\obj\Debug\net7.0\String_MeuApp.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desenvolvedor Backend .NET\String_MeuApp\obj\Debug\net7.0\String_MeuApp.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desenvolvedor Backend .NET\String_MeuApp\obj\Debug\net7.0\String_MeuApp.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desenvolvedor Backend .NET\String_MeuApp\obj\Debug\net7.0\String_MeuApp.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desenvolvedor Backend .NET\String_MeuApp\obj\Debug\net7.0\refint\String_MeuApp.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desenvolvedor Backend .NET\String_MeuApp\obj\Debug\net7.0\String_MeuApp.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desenvolvedor Backend .NET\String_MeuApp\obj\Debug\net7.0\String_MeuApp.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desenvolvedor Backend .NET\String_MeuApp\obj\Debug\net7.0\ref\String_MeuApp.dll
